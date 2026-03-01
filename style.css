@@ -874,7 +874,8 @@
     font-weight: 500;
     color: var(--text-400);
     background: transparent;
-    right: 20px;
+    right: auto;
+    left: 20px;
     bottom: 14px;
 }
 
